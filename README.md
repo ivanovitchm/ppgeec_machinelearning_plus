@@ -23,4 +23,4 @@ Implementing a Neural Machine Translator from Scratch in Keras](https://machinel
     - **Data visualization**: Visualizing the results of OpenAI models using charts, graphs, and other data visualization tools.
     - **Transcription and named entity recognition**: Using OpenAI to transcribe audio and video files, and extract named entities from the resulting text.
     - **Image generation**: Using OpenAI's image generation models to create custom images for a variety of applications.
-    - Hands on [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_01/chatGPT_API.ipynb)
+    - Hands on chatGPT API[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_01/chatGPT_API.ipynb)
