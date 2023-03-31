@@ -15,7 +15,7 @@ Implementing a Neural Machine Translator from Scratch in Keras](https://machinel
 - :books: [Daniel Voigt Godoy. Deep Learning with PyTorch - Step by Step A Beginner's Guide](https://leanpub.com/pytorch)
 - :fist_right: [Dataquest Academic Program](https://www.dataquest.io/academic-program/)
 
-**Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plusblob/main/lessons/week_01/outline.pdf)
+**Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_01/outline.pdf)
 - Motivation, Syllabus, Calender, other issues.
 - Introduciton to OpenAI API
     - **Recommendation systems**: Using OpenAI to build recommendation systems that provide personalized recommendations based on user behavior and preferences.
