@@ -25,5 +25,5 @@ Implementing a Neural Machine Translator from Scratch in Keras](https://machinel
     - **Image generation**: Using OpenAI's image generation models to create custom images for a variety of applications.
     - Hands on chatGPT API [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_01/chatGPT_API.ipynb)
 
-**Week 02**: Survey & Update [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/week_02.pdf)
-    - Hands on Midjourney [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/Midjourney.ipynb)
+**Week 02**: A little more about generative AI [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/week_02.pdf)
+- Hands on Midjourney [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/Midjourney.ipynb)
