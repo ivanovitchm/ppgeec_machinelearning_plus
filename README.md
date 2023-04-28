@@ -27,3 +27,5 @@ Implementing a Neural Machine Translator from Scratch in Keras](https://machinel
 
 **Week 02**: A little more about generative AI [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/week_02.pdf)
 - Hands on Midjourney [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_02/Midjourney.ipynb)
+
+**Week 03**: Project [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec_machinelearning_plus/blob/main/lessons/week_03/Week_03.pdf)
